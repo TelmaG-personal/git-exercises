@@ -15,3 +15,11 @@ https://git-scm.com/docs/gitignore
 When you run a build command, the build client looks for a file named .dockerignore in the root directory of the context. If this file exists, the files and directories that match patterns in the files are removed from the build context before it's sent to the builder.
 
 https://docs.docker.com/build/building/context/
+
+# TL;DR of app.py
+
+To use or invoke this application:
+
+```bash
+python script.py <name>
+
