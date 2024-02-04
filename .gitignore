@@ -1,0 +1,11 @@
+#example
+# Ignoring compiled Python files
+*.pyc
+
+# Ignoring files in the 'temp' directory
+/temp/
+
+# Ignore environment-specific files
+.env
+
+
